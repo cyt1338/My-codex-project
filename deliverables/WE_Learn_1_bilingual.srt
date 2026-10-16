@@ -1,0 +1,300 @@
+﻿1
+00:00:00,655 --> 00:00:02,850
+你大概听说过“朝九晚五”，
+You've probably heard of 9 to 5,
+
+2
+00:00:02,955 --> 00:00:05,125
+但你听说过“996”吗？
+but what about 996?
+
+3
+00:00:05,125 --> 00:00:07,345
+每天实行“996”，
+Working 996 every day
+
+4
+00:00:07,345 --> 00:00:12,015
+就会让你多加班二三十个小时。
+makes your overtime longer than 20 or 30 hours.
+
+5
+00:00:12,015 --> 00:00:13,890
+这肯定会伤害身体。
+It surely harms your body.
+
+6
+00:00:13,965 --> 00:00:17,285
+这已成为人们对“996”的普遍感受。
+That's become a popular sentiment towards 996,
+
+7
+00:00:17,285 --> 00:00:20,815
+所谓“996”，就是每天从早九点工作到晚九点，
+the culture of working from 9 a.m. to 9 p.m.
+
+8
+00:00:20,815 --> 00:00:22,310
+每周工作六天。
+six days a week.
+
+9
+00:00:22,635 --> 00:00:23,885
+这种工作制正变得越来越普遍，
+It's become more common
+
+10
+00:00:23,885 --> 00:00:26,510
+尤其是在中国竞争激烈的科技行业，
+in China's super competitive tech industry
+
+11
+00:00:26,875 --> 00:00:30,580
+并引发了全国对工作与生活平衡的讨论，
+and has sparked a nationwide debate about work-life balance,
+
+12
+00:00:30,695 --> 00:00:33,140
+其中许多讨论发生在社交媒体上。
+much of it playing out on social media.
+
+13
+00:00:33,275 --> 00:00:35,555
+上个月，一场抵制运动兴起，
+Last month, a movement of dissent took off
+
+14
+00:00:35,555 --> 00:00:38,460
+地点是微软旗下的代码共享平台GitHub。
+on Microsoft's code sharing platform, GitHub.
+
+15
+00:00:39,085 --> 00:00:41,925
+这场运动被称为“996.ICU”，
+It's dubbed 996 ICU,
+
+16
+00:00:41,925 --> 00:00:44,705
+意指实行“996”工作制，
+implying that working 996 will land you
+
+17
+00:00:44,705 --> 00:00:46,490
+最终可能让你住进重症监护室。
+in the intensive care unit.
+
+18
+00:00:46,645 --> 00:00:49,515
+“被996困住的年轻人”这一话题标签，
+The hashtag young people trapped by 996
+
+19
+00:00:49,515 --> 00:00:52,160
+也在中国社交媒体上广泛传播。
+has also made the rounds on Chinese social media.
+
+20
+00:00:52,365 --> 00:00:54,905
+人们借此分享高压工作的经历，
+It's a way to share stressful work experiences
+
+21
+00:00:54,905 --> 00:00:58,280
+并点名批评实行这种严苛工作制的公司。
+and call out companies that implement the grueling schedule.
+
+22
+00:00:58,935 --> 00:01:01,055
+“对于一些初创企业和大公司，
+"For some startups and big companies,
+
+23
+00:01:01,055 --> 00:01:03,295
+它们需要通过工作来与其他企业竞争，
+they need their work to compete with other firms
+
+24
+00:01:03,295 --> 00:01:05,920
+而员工正是这种竞争力的核心。”
+and employees are at the core of that competitiveness."
+
+25
+00:01:06,735 --> 00:01:10,265
+“偶尔为事业拼搏一下是可以接受的，
+"It is acceptable to struggle for your career once in a while,
+
+26
+00:01:10,265 --> 00:01:11,625
+但不要让它成为常态。
+but don't make it a norm.
+
+27
+00:01:11,625 --> 00:01:14,405
+我认为最好的办法是提高效率。”
+I think the best way is to increase efficiency."
+
+28
+00:01:14,405 --> 00:01:16,835
+中国一些大型公司的负责人，
+The heads of some of China's biggest companies
+
+29
+00:01:16,835 --> 00:01:18,410
+也加入了这场讨论。
+have also joined the debate.
+
+30
+00:01:19,085 --> 00:01:21,640
+阿里巴巴的马云在微博上发文表示：
+Alibaba's Jack Ma posting on Weibo,
+
+31
+00:01:21,855 --> 00:01:24,875
+“我个人认为，能够实行996，
+"I personally think that being able to work 996
+
+32
+00:01:24,875 --> 00:01:26,230
+是一种巨大的福气。
+is a huge blessing.
+
+33
+00:01:26,385 --> 00:01:28,925
+如果你不比别人付出更多时间和精力，
+If you don't put out more time and energy than others,
+
+34
+00:01:28,925 --> 00:01:31,140
+又怎么能获得你想要的成功？”
+how can you achieve the success you want?"
+
+35
+00:01:31,825 --> 00:01:33,485
+马云后来澄清说，
+Ma later clarified, saying
+
+36
+00:01:33,485 --> 00:01:36,520
+他并不赞成强制实行“996”，
+he didn't condone mandatory 996 schedules,
+
+37
+00:01:36,725 --> 00:01:38,235
+而只是想赞扬那些，
+but just wanted to praise those
+
+38
+00:01:38,235 --> 00:01:40,715
+自愿投入这些工作时间的人。
+who put in the hours voluntarily.
+
+39
+00:01:40,715 --> 00:01:45,190
+电商巨头京东的首席执行官兼联合创始人刘强东，
+Richard Liu, CEO and co-founder of e-commerce giant JD.com,
+
+40
+00:01:45,395 --> 00:01:48,345
+则在微博上说得更直接：
+put it more bluntly in his Weibo post, saying,
+
+41
+00:01:48,345 --> 00:01:50,710
+“混日子的人不是我的兄弟。”
+"Slackers are not my brothers."
+
+42
+00:01:51,185 --> 00:01:53,610
+“996”并非中国独有。
+996 is not unique to China.
+
+43
+00:01:54,355 --> 00:01:57,145
+SpaceX的首席执行官兼创始人埃隆·马斯克，
+Elon Musk, CEO and founder of SpaceX,
+
+44
+00:01:57,145 --> 00:02:01,365
+在推特上说，他经常每周工作120小时。
+said on Twitter he often clocks 120 hours a week.
+
+45
+00:02:01,365 --> 00:02:04,880
+他说，从来没有人靠每周工作40小时改变世界。
+Nobody, he said, ever changed the world on 40.
+
+46
+00:02:05,105 --> 00:02:07,975
+但自愿长时间工作与被迫加班，
+But choosing to work long hours or being forced
+
+47
+00:02:07,975 --> 00:02:09,740
+完全是两回事。
+are two issues entirely.
+
+48
+00:02:09,885 --> 00:02:13,180
+一位中国律师表示，这其中存在法律红线。
+One Chinese attorney says there is a legal red line.
+
+49
+00:02:13,305 --> 00:02:16,985
+根据中国劳动法，
+According to Chinese labor law,
+
+50
+00:02:16,985 --> 00:02:19,525
+大多数员工适用标准工时制度，
+most employees are subject to standard working time,
+
+51
+00:02:19,525 --> 00:02:21,770
+即每天工作不超过八小时，
+which is no more than eight hours per day,
+
+52
+00:02:21,805 --> 00:02:23,450
+每周不超过40小时，
+no more than 40 hours per week,
+
+53
+00:02:23,625 --> 00:02:25,215
+且每周至少休息一天。
+and at least one day off every week.
+
+54
+00:02:25,215 --> 00:02:28,035
+所以，“996”工作制违反了法律，
+So the 996 working time violates the law
+
+55
+00:02:28,035 --> 00:02:30,930
+其每日和每周工作时间均超出了规定。
+in terms of both working time every day and every week.
+
+56
+00:02:32,285 --> 00:02:35,695
+“对于年轻人来说，多年以后，
+"For young people, after many years,
+
+57
+00:02:35,695 --> 00:02:38,725
+他们或许会觉得自己曾有一份宝贵的工作机会，
+they may think they had a valuable work opportunity,
+
+58
+00:02:38,725 --> 00:02:42,205
+但也可能后悔自己被廉价地出卖了。”
+but they may also regret they had sold themselves cheaply."
+
+59
+00:02:42,205 --> 00:02:45,470
+有人认为，这样的代价并不值得。
+A cost that some say just isn't worth it.
+
+60
+00:02:45,845 --> 00:02:47,764
+CGTN记者Frances Kuo报道。
+Frances Kuo, CGTN.
+
