@@ -14,3 +14,10 @@
 若仓库为私有，请先登录有访问权限的 GitHub 账号再下载。
 
 压缩包 SHA-256：`f57636c8c221cd1341d7fce7b71dbd65c803bbcc22f876226a90c21157f3b1c4`
+
+
+## 习题2-37：四球完全弹性碰撞
+
+[作业说明与代码](four-balls/) · [下载完整提交包](four-balls/four_balls_submission.zip?raw=1) · [下载28秒演示视频](four-balls/four_balls.mp4?raw=1)
+
+包含Python源代码、中文演示MP4和运行说明。质量依次为2m、2m、m、m，已校验动量及动能守恒。
