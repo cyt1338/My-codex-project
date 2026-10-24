@@ -21,3 +21,12 @@
 [作业说明与代码](four-balls/) · [下载完整提交包](four-balls/four_balls_submission.zip?raw=1) · [下载28秒演示视频](four-balls/four_balls.mp4?raw=1)
 
 包含Python源代码、中文演示MP4和运行说明。质量依次为2m、2m、m、m，已校验动量及动能守恒。
+
+
+## 孟子的人性论：WE_Learn (2).mp4
+
+[下载双语字幕视频（ZIP，约25 MB，内含MP4和SRT）](deliverables/WE_Learn_3_bilingual.zip?raw=1)
+
+中文在上、英文在下，底部白字黑边，134条字幕已嵌入视频。保留原始1280×720分辨率、25fps帧率和原音频流；成片已通过完整解码及音频一致性检查。
+
+[单独下载可编辑双语SRT字幕](deliverables/WE_Learn_3_bilingual.srt?raw=1)

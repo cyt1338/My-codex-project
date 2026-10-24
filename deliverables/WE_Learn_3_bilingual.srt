@@ -1,0 +1,670 @@
+﻿1
+00:00:00,275 --> 00:00:02,285
+大家好，我是马特·沃克。
+Hi everybody, I'm Matt Walker.
+
+2
+00:00:02,285 --> 00:00:04,345
+我教授哲学与人文学科，
+I teach philosophy and humanities
+
+3
+00:00:04,345 --> 00:00:06,740
+任教于新加坡的耶鲁—新加坡国立大学学院。
+at Yale-NUS College in Singapore.
+
+4
+00:00:06,825 --> 00:00:08,455
+今天我将探讨，
+Today I'm going to take a look at
+
+5
+00:00:08,455 --> 00:00:10,490
+孟子关于人性的观点。
+Mengzi's views on human nature.
+
+6
+00:00:10,575 --> 00:00:12,665
+具体来说，我将考察，
+In particular, I'm going to take a look at
+
+7
+00:00:12,665 --> 00:00:16,160
+孟子如何为“人性本善”的主张辩护。
+Mengzi's defense of the claim that human nature is good.
+
+8
+00:00:16,865 --> 00:00:18,970
+孟子，在西方也被称为Mencius，
+Mengzi, also known as Mencius,
+
+9
+00:00:19,065 --> 00:00:21,200
+是一位早期儒家哲学家。
+was an early Confucian philosopher.
+
+10
+00:00:21,395 --> 00:00:23,860
+他生活在公元前四世纪。
+He lived in the 300s BCE.
+
+11
+00:00:24,025 --> 00:00:26,645
+与孔子一样，孟子致力于捍卫，
+Like Confucius, Mengzi was concerned to defend
+
+12
+00:00:26,645 --> 00:00:29,780
+一种关于人类美好生活的特定观念。
+a certain conception of the good life for human beings.
+
+13
+00:00:30,085 --> 00:00:31,955
+我们可以将这种美好生活的观念，
+Call this conception of the good life
+
+14
+00:00:31,955 --> 00:00:35,150
+称为儒家之“道”。
+the Confucian Way or the Confucian Tao.
+
+15
+00:00:35,415 --> 00:00:36,845
+按照儒家之道，
+According to the Confucian Way,
+
+16
+00:00:36,845 --> 00:00:39,995
+拥有仁、义，
+possessing virtues like benevolence, righteousness,
+
+17
+00:00:39,995 --> 00:00:41,750
+以及礼、智等美德，
+propriety, and wisdom
+
+18
+00:00:41,775 --> 00:00:43,790
+是过好人生的核心所在。
+are central to a life well lived.
+
+19
+00:00:44,305 --> 00:00:46,940
+当孟子说“人性本善”时，
+When Mengzi says that human nature is good,
+
+20
+00:00:47,085 --> 00:00:48,905
+他的意思是，人类
+Mengzi's thought is that human beings
+
+21
+00:00:48,905 --> 00:00:52,650
+天生就具有趋向这些美德的潜能或倾向。
+have innate potentials or predispositions towards such virtues.
+
+22
+00:00:52,765 --> 00:00:55,560
+我们自然地倾向于这些美德。
+We naturally tend toward these virtues.
+
+23
+00:00:55,865 --> 00:00:56,870
+正如孟子所说：
+As Mengzi says,
+
+24
+00:00:57,045 --> 00:01:00,670
+“仁、义、礼、智，
+"Benevolence, righteousness, propriety, and wisdom
+
+25
+00:01:00,765 --> 00:01:03,190
+并非由外界强加于我。
+are not welded to us externally.
+
+26
+00:01:03,505 --> 00:01:05,070
+而是我们本来就具有的。”
+We inherently have them."
+
+27
+00:01:05,955 --> 00:01:07,210
+在阐述这一观点时，
+In presenting this view,
+
+28
+00:01:07,295 --> 00:01:09,740
+孟子使用了一个农业方面的比喻。
+Mengzi uses an agricultural metaphor.
+
+29
+00:01:09,895 --> 00:01:12,515
+他将这些潜能和倾向，
+He describes these potentials and predispositions
+
+30
+00:01:12,515 --> 00:01:14,720
+描述为美德的萌芽，也就是“善端”。
+as sprouts of virtue.
+
+31
+00:01:15,025 --> 00:01:17,735
+孟子进一步指出，这些善端，
+Mengzi in turn locates these sprouts of virtue
+
+32
+00:01:17,735 --> 00:01:19,665
+存在于人的“心”之中，
+in the heart, or heart-mind,
+
+33
+00:01:19,665 --> 00:01:22,215
+在孟子看来，心是，
+which Mengzi identifies as the seat
+
+34
+00:01:22,215 --> 00:01:25,230
+我们的认知与情感倾向的所在。
+of our cognitive and affective dispositions.
+
+35
+00:01:25,905 --> 00:01:29,565
+孟子认为，如果我们充分培育这些善端，
+Mengzi's thought is that if we fully cultivate our sprouts,
+
+36
+00:01:29,565 --> 00:01:32,325
+悉心培养我们趋向美德的倾向，
+if we tend to our predispositions toward virtue
+
+37
+00:01:32,325 --> 00:01:33,955
+并成为具备完善德性的人，
+and become fully virtuous,
+
+38
+00:01:33,955 --> 00:01:36,890
+我们的人性就能得到充分实现。
+then we will bring our human nature to full fruition.
+
+39
+00:01:37,035 --> 00:01:39,400
+我们也就能作为人而蓬勃发展。
+We will flourish as human beings.
+
+40
+00:01:39,715 --> 00:01:41,535
+但孟子提出了什么证据，
+But what evidence does Mengzi adduce
+
+41
+00:01:41,535 --> 00:01:43,590
+来支持“人性本善”的观点呢？
+for the view that human nature is good?
+
+42
+00:01:43,715 --> 00:01:45,095
+换句话说，他依据什么，
+On what basis, in other words,
+
+43
+00:01:45,095 --> 00:01:47,715
+认为我们具有这样的倾向，
+does Mengzi think that we have such predispositions
+
+44
+00:01:47,715 --> 00:01:50,260
+会趋向仁、义等美德呢？
+toward benevolence, righteousness, and the like?
+
+45
+00:01:50,925 --> 00:01:52,175
+这里，我想考察，
+Here, I want to take a look at
+
+46
+00:01:52,175 --> 00:01:54,335
+《孟子》中最著名的论证之一。
+one of the most famous arguments in the Mengzi.
+
+47
+00:01:54,335 --> 00:01:56,940
+它见于《孟子·公孙丑上》第六章。
+It appears in Mengzi 2A6.
+
+48
+00:01:57,105 --> 00:01:59,940
+和哲学史上的其他一些著名论证一样，
+Like some other famous arguments in the history of philosophy,
+
+49
+00:02:00,165 --> 00:02:02,060
+这一论证涉及一个思想实验。
+it involves a thought experiment.
+
+50
+00:02:02,215 --> 00:02:04,375
+我将孟子的这个思想实验，
+I'll call Mengzi's thought experiment
+
+51
+00:02:04,375 --> 00:02:06,580
+称为“孺子将入井”的案例。
+"The Child and the Well Case."
+
+52
+00:02:06,945 --> 00:02:09,220
+各位，请认识一下小瑞娅。
+Ladies and gentlemen, meet Little Rhea.
+
+53
+00:02:09,575 --> 00:02:12,065
+假设小瑞娅正摇摇晃晃地，
+Suppose that Little Rhea is toddling right along
+
+54
+00:02:12,065 --> 00:02:13,270
+穿过这片田野。
+through this field.
+
+55
+00:02:13,795 --> 00:02:16,610
+再假设，她浑然不觉地，
+And suppose further that she's heading obliviously
+
+56
+00:02:16,655 --> 00:02:19,280
+径直朝这口看上去很吓人的井走去。
+right toward this scary-looking well.
+
+57
+00:02:19,455 --> 00:02:20,750
+井就在那儿。
+There's the well.
+
+58
+00:02:20,895 --> 00:02:23,000
+小瑞娅正蹒跚着往前走。
+There's Little Rhea toddling along.
+
+59
+00:02:23,135 --> 00:02:25,200
+越来越近了。啊！
+Getting closer. Ah!
+
+60
+00:02:25,415 --> 00:02:26,445
+呼，我想我应该补充一句：
+Phew, I guess I should add
+
+61
+00:02:26,445 --> 00:02:28,760
+你刚才看到的只是情景演示。
+that what you saw was only a dramatization.
+
+62
+00:02:28,835 --> 00:02:31,455
+孟子认为，任何人只要看到小瑞娅，
+According to Mengzi, anyone who saw Little Rhea
+
+63
+00:02:31,455 --> 00:02:33,125
+就要蹒跚着掉进那口井里，
+about to toddle into that well
+
+64
+00:02:33,125 --> 00:02:36,650
+都会产生一种即时、不假思索的本能反应。
+would have an immediate, non-reflective gut reaction.
+
+65
+00:02:36,985 --> 00:02:39,170
+正如《孟子·公孙丑上》第六章所说，
+As Mengzi says in 2A6,
+
+66
+00:02:39,385 --> 00:02:42,900
+人人都会顿生“怵惕恻隐之心”。
+anyone would feel a surge of alarm and compassion.
+
+67
+00:02:43,145 --> 00:02:46,055
+事实上，只要把这个孩子与井的案例，
+Indeed, simply imagining the child in the well case
+
+68
+00:02:46,055 --> 00:02:47,480
+生动地想象出来，
+vividly to yourselves,
+
+69
+00:02:47,635 --> 00:02:49,510
+你或许就能感受到几分这种惊惧。
+you might feel something of this alarm.
+
+70
+00:02:50,005 --> 00:02:51,725
+那么，从孟子的这个思想实验，
+Okay, so what should we conclude
+
+71
+00:02:51,725 --> 00:02:54,940
+也就是“孺子将入井”的案例中，我们该得出什么结论呢？
+from Mengzi's child and the well thought experiment?
+
+72
+00:02:54,995 --> 00:02:58,115
+孟子认为，我们不假思索的本能反应，
+According to Mengzi, our non-reflective gut reaction
+
+73
+00:02:58,115 --> 00:03:00,120
+面对小瑞娅即将遭遇的危险时的反应，
+to Little Rhea's looming danger
+
+74
+00:03:00,125 --> 00:03:03,330
+表明我们天生就具有趋向仁的倾向。
+shows that we have innate predispositions toward benevolence.
+
+75
+00:03:03,415 --> 00:03:04,460
+在孟子看来，
+On Mengzi's view,
+
+76
+00:03:04,555 --> 00:03:08,200
+我们对小瑞娅可能遭遇不幸的反应，是与生俱来的。
+our response to Little Rhea's potential disaster is hardwired.
+
+77
+00:03:08,425 --> 00:03:11,545
+人类天生就具有这样的倾向：
+Human beings, by nature, are simply predisposed
+
+78
+00:03:11,545 --> 00:03:13,685
+会感到惊惧与同情，
+to respond with alarm and compassion
+
+79
+00:03:13,685 --> 00:03:17,020
+当他们看到无力自卫的无辜者即将受害时。
+when they see defenseless innocents about to face harm.
+
+80
+00:03:17,025 --> 00:03:19,720
+孟子强调，我们的惊惧与同情，
+And our alarm and compassion Mengzi insists
+
+81
+00:03:19,875 --> 00:03:22,960
+体现了人性中仁的萌芽，也就是“仁之端”。
+reveals the sprout of benevolence in human nature.
+
+82
+00:03:23,355 --> 00:03:24,535
+当然，这并不表明，
+To be sure, it doesn't show
+
+83
+00:03:24,535 --> 00:03:27,485
+我们已经拥有充分发展的仁德。
+that we possess the fully developed virtue of benevolence,
+
+84
+00:03:27,485 --> 00:03:29,225
+但孟子认为，它揭示了，
+but Mengzi thinks that it reveals
+
+85
+00:03:29,225 --> 00:03:31,365
+仁的胚芽或萌芽，
+the germ or bud of benevolence,
+
+86
+00:03:31,365 --> 00:03:34,005
+即仁的一种初始形态，
+a kind of proto-version of benevolence
+
+87
+00:03:34,005 --> 00:03:36,330
+可以通过培育走向成熟。
+that can be cultivated to maturity.
+
+88
+00:03:36,805 --> 00:03:38,260
+然而，孟子也承认，
+Mengzi recognizes, however,
+
+89
+00:03:38,295 --> 00:03:41,625
+人们可能对我们的反应提出不同的解释。
+that one might offer different accounts of our reactions.
+
+90
+00:03:41,625 --> 00:03:43,640
+按照另一种解释，
+According to one alternative proposal,
+
+91
+00:03:43,705 --> 00:03:45,955
+也许一个人对小瑞娅遇险的反应，
+perhaps one's response to Little Rhea's danger
+
+92
+00:03:45,955 --> 00:03:47,930
+其实出于工具性的动机。
+is instrumentally motivated.
+
+93
+00:03:48,035 --> 00:03:48,850
+换句话说，
+In other words,
+
+94
+00:03:48,965 --> 00:03:52,090
+一个人之所以对小瑞娅感到惊惧与同情，
+maybe one feels alarm and compassion for Little Rhea
+
+95
+00:03:52,175 --> 00:03:54,470
+也许是因为他心中有某些目的，
+because one has certain ends in view
+
+96
+00:03:54,575 --> 00:03:56,930
+或者因为他另有所图。
+or because one has ulterior motives.
+
+97
+00:03:57,415 --> 00:04:00,390
+然而，孟子拒绝了这种工具性的解释。
+Mengzi, however, rejects this instrumental account.
+
+98
+00:04:00,745 --> 00:04:03,090
+孟子说，听到小瑞娅的遭遇时，
+Hearing about Little Rhea, Mengzi says,
+
+99
+00:04:03,235 --> 00:04:04,960
+一个人会感到惊惧与同情，
+one would feel alarm and compassion
+
+100
+00:04:05,165 --> 00:04:08,730
+并不是因为他想讨好孩子的父母，
+not because one sought to get in good with the child's parents.
+
+101
+00:04:08,735 --> 00:04:12,750
+也不是因为他想在乡邻朋友中博取美名，
+not because one wanted fame among their neighbors and friends,
+
+102
+00:04:13,115 --> 00:04:17,550
+更不是因为他厌恶孩子的哭声。
+and not because one would dislike the sound of the child's cries.
+
+103
+00:04:17,995 --> 00:04:19,575
+孟子认为，关键在于，
+What's important, Mengzi thinks,
+
+104
+00:04:19,575 --> 00:04:21,985
+我们这种惊惧与同情的反应，
+is that our alarmed and compassionate response
+
+105
+00:04:21,985 --> 00:04:24,100
+是自发而不假思索的。
+is spontaneous and unthinking.
+
+106
+00:04:24,595 --> 00:04:27,790
+这表明，我们的反应并不经过权衡算计。
+That shows that our response emerges without calculation.
+
+107
+00:04:28,325 --> 00:04:31,720
+不过，孟子的人性观还面临另一个挑战。
+Still, Mengzi's view of human nature faces another challenge.
+
+108
+00:04:31,895 --> 00:04:35,135
+“人性本善”似乎显然是错误的。
+It seems demonstrably false that human nature is good.
+
+109
+00:04:35,135 --> 00:04:38,410
+如果人性本善，恶德就应当很少见。
+If human nature is good, then vice should be rare.
+
+110
+00:04:38,495 --> 00:04:42,415
+我们不该经常看到野蛮、劫掠、贪腐，
+We shouldn't often see brutishness, plunder, venality,
+
+111
+00:04:42,415 --> 00:04:45,515
+自私、恃权专横，以及其他恶劣品质。
+selfishness, petty tyranny, and other nasty traits.
+
+112
+00:04:45,515 --> 00:04:47,190
+但恶德却并不少见。
+But vice isn't rare.
+
+113
+00:04:47,365 --> 00:04:49,750
+因此，孟子的观点似乎是错误的。
+Hence it might seem Mengzi's view is wrong.
+
+114
+00:04:49,985 --> 00:04:53,470
+与孟子相反，人性看起来也许本就是恶的。
+Contrary to Mengzi, it might seem human nature is bad.
+
+115
+00:04:54,125 --> 00:04:56,060
+面对这类挑战时，
+When faced with this kind of challenge,
+
+116
+00:04:56,145 --> 00:04:59,170
+孟子的策略是让人性免于被归罪。
+Mengzi's strategy is to get human nature off the hook.
+
+117
+00:04:59,335 --> 00:05:01,940
+孟子主张，如果人变坏了，
+If human beings are bad, Mengzi argues,
+
+118
+00:05:01,955 --> 00:05:04,040
+那并不是因为他们的本性是恶的。
+It's not because their nature is bad.
+
+119
+00:05:04,505 --> 00:05:06,380
+孟子是这样阐述这一点的：
+Mengzi puts the point this way.
+
+120
+00:05:06,535 --> 00:05:09,225
+就人的本质而言，人能够为善。
+As for their essence, human beings can become good.
+
+121
+00:05:09,225 --> 00:05:12,050
+这就是我所谓的人性本善。
+This is what I mean by calling their natures good.
+
+122
+00:05:12,235 --> 00:05:13,865
+至于他们变得不善，
+As for their becoming not good,
+
+123
+00:05:13,865 --> 00:05:16,270
+那并不是其天赋潜能的过错。
+this is not the fault of their potential.
+
+124
+00:05:16,805 --> 00:05:18,910
+或者，正如孟子在另一处所说，
+Or, as Mengzi puts the point elsewhere,
+
+125
+00:05:19,135 --> 00:05:22,645
+并非只有贤者才具有这种心，
+it is not the case that only the worthy person has this heart,
+
+126
+00:05:22,645 --> 00:05:25,170
+也就是勇气之心，或勇气的萌芽。
+that is, the heart or sprout of courage.
+
+127
+00:05:25,345 --> 00:05:26,885
+所有人都具有它。
+All human beings have it.
+
+128
+00:05:26,885 --> 00:05:29,200
+贤者只不过是从不丧失它而已。
+The worthy person simply never loses it.
+
+129
+00:05:29,925 --> 00:05:32,465
+换句话说，孟子完全明白，
+In other words, Mengzi is fully aware
+
+130
+00:05:32,465 --> 00:05:34,840
+世上到处都有坏人。
+that the world is full of bad human beings.
+
+131
+00:05:35,085 --> 00:05:39,240
+但孟子认为，不要把这种恶归咎于人性。
+But Mengzi suggests don't blame human nature for such badness.
+
+132
+00:05:39,305 --> 00:05:42,890
+相反，应该归因于人性的发展受到阻碍。
+Instead, blame the stunting of human nature for such badness.
+
+133
+00:05:43,185 --> 00:05:46,000
+人性确实具有趋向美德的倾向，
+Human nature does have predispositions toward virtue,
+
+134
+00:05:46,135 --> 00:05:49,414
+但这些倾向可能受到败坏。
+but these predispositions can be corrupted.
+
